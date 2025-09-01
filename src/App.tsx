@@ -2,7 +2,7 @@ import './App.css';
 import profilePic from './assets/profile.jpg';
 import flutterLogo from './assets/flutter.png';
 import cvLogo from './assets/opencv.png';
-import dartLogo from './assets/dart.png';
+import dartLogo from './assets/Dart.png';
 import tenserflowLogo from './assets/TensorFlow.png';
 import PythonLogo from './assets/Python.png';
 import ReactLogo from './assets/React.png';
