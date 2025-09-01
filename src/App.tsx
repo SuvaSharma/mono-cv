@@ -51,26 +51,26 @@ function App() {
 const projects = [
   {
     title: "Flutter Notes App",
-    image: "src/assets/project.avif", // replace with your project image
+    image: "src/assets/project.jpg", // replace with your project image
     description: "A cross-platform notes app built with Flutter, integrated with Firebase.",
     link: "https://github.com/yourusername/flutter-notes"
   },
   {
     title: "AI Object Detector",
-    image: "src/assets/project2.avif", // replace with real image
+    image: "src/assets/project2.jpg", // replace with real image
     description: "TensorFlow-powered app for real-time object detection.",
     link: "https://github.com/yourusername/object-detector"
   },
   {
     title: "Portfolio Website",
-    image: "src/assets/project.avif",
+    image: "src/assets/project.jpg",
     description: "My personal portfolio built with React + TypeScript.",
     link: "https://suvasharma.com.np"
   },
 
    {
     title: "Portfolio Website",
-    image: "src/assets/project.avif",
+    image: "src/assets/project.jpg",
     description: "My personal portfolio built with React + TypeScript.",
     link: "https://suvasharma.com.np"
   }
